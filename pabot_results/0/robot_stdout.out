@@ -1,0 +1,25 @@
+==============================================================================
+Test                                                                          
+==============================================================================
+Test.Google Search                                                            
+==============================================================================
+Test.Google Search.Sp Google Search                                           
+==============================================================================
+TC-001 Google search for a query and verification :: This test cas... | FAIL |
+Parent suite setup failed:
+WebDriverException: Message: 'geckodriver' executable needs to be in PATH.
+------------------------------------------------------------------------------
+Test.Google Search.Sp Google Search                                   | FAIL |
+Suite setup failed:
+WebDriverException: Message: 'geckodriver' executable needs to be in PATH. 
+
+
+1 test, 0 passed, 1 failed
+==============================================================================
+Test.Google Search                                                    | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Test                                                                  | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\suneet\PycharmProjects\pythonProject\pabot_results\0\output.xml
